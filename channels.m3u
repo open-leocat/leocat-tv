@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1,Perviyy-Kanal
+#EXTINF:-1,Первый канал
 http://persik.by/stream/8682/252987/8.m3u8
-#EXTINF:-1,Rossia-1
+#EXTINF:-1,Россия-1
 http://persik.by/stream/8682/252987/9.m3u8
-#EXTINF:-1,NTV
+#EXTINF:-1,НТВ
 http://persik.by/stream/8682/252987/10.m3u8
-#EXTINF:-1,RENTV
+#EXTINF:-1,Рен ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1,Swesda
+#EXTINF:-1,Звезда
 http://176.101.224.21:8080/udp/239.195.32.17:1234
-#EXTINF:-1,STS
+#EXTINF:-1,СТС
 https://cdn.mytouchtv.tv/hlsl/10/STS/STS_2/index.m3u8
-#EXTINF:-1,TNT
+#EXTINF:-1,ТНТ
 https://cdn.mytouchtv.tv/hlsl/10/TNT/TNT_3/index.m3u8
-#EXTINF:-1,Karusel
+#EXTINF:-1,Карусель
 https://cdn.mytouchtv.tv/hlsl/10/Karusel/Karusel_2/index.m3u8
-#EXTINF:-1,Pobeda
+#EXTINF:-1,Победа
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
-#EXTINF:-1,Vremya
+#EXTINF:-1,Время
 http://russia.livetv.az/russia/vremya/playlist.m3u8
