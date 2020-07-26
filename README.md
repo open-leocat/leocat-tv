@@ -1,2 +1,2 @@
 # LeocatTV
-Just a simple KODI-IPTV-Client.
+LeocatTV is a very easy to use IPTV-Client for KODI.
