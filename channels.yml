@@ -1,0 +1,37 @@
+channels:
+  pervyykanal:
+    name: &#x41F;&#x435;&#x440;&#x432;&#x44B;&#x439; &#x43A;&#x430;&#x43D;&#x430;&#x43B;
+    link: http://persik.by/stream/8682/252987/8.m3u8
+    icon: https://github.com/open-leocat/leocat-tv/tree/master/icons/pervyykanal.png
+  rossiaone:
+    name: &#x420;&#x43E;&#x441;&#x441;&#x438;&#x44F;-1
+    link: http://persik.by/stream/8682/252987/9.m3u8
+    icon: https://github.com/open-leocat/leocat-tv/tree/master/icons/rossiaone.png
+  rentv:
+    name: &#x420;&#x435;&#x43D; &#x422;&#x412;
+    link: http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+    icon: https://github.com/open-leocat/leocat-tv/tree/master/icons/rentv.png
+  ctc:
+    name: &#x421;&#x422;&#x421;
+    link: https://cdn.mytouchtv.tv/hlsl/10/STS/STS_2/index.m3u8
+    icon: https://github.com/open-leocat/leocat-tv/tree/master/icons/ctc.png
+  tnt:
+    name: &#x422;&#x41D;&#x422;
+    link: https://cdn.mytouchtv.tv/hlsl/10/TNT/TNT_3/index.m3u8
+    icon: https://github.com/open-leocat/leocat-tv/tree/master/icons/tnt.png
+  karusel:
+    name: &#x41A;&#x430;&#x440;&#x443;&#x441;&#x435;&#x43B;&#x44C;
+    link: https://cdn.mytouchtv.tv/hlsl/10/Karusel/Karusel_2/index.m3u8
+    icon: https://github.com/open-leocat/leocat-tv/tree/master/icons/karusel.png
+  zwesda:
+    name: &#x417;&#x432;&#x435;&#x437;&#x434;&#x430;
+    link: http://176.101.224.21:8080/udp/239.195.32.17:1234
+    icon: https://github.com/open-leocat/leocat-tv/tree/master/icons/zwesda.png
+  vremya:
+    name: &#x412;&#x440;&#x435;&#x43C;&#x44F;
+    link: http://russia.livetv.az/russia/vremya/playlist.m3u8
+    icon: https://github.com/open-leocat/leocat-tv/tree/master/icons/vremya.png
+  pobeda:
+    name: &#x420;&#x435;&#x43D; &#x422;&#x412;
+    link: https://sc.id-tv.kz/Pobeda_34_35.m3u8
+    icon: https://github.com/open-leocat/leocat-tv/tree/master/icons/pobeda.png
