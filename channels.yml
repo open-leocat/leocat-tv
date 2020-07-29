@@ -35,3 +35,7 @@ channels:
     name: &#x420;&#x435;&#x43D; &#x422;&#x412;
     link: https://sc.id-tv.kz/Pobeda_34_35.m3u8
     icon: https://github.com/open-leocat/leocat-tv/tree/master/icons/pobeda.png
+  matchtv:
+    name: &#x4d;&acy;&tcy;&chcy;
+    link: https://github.com/open-leocat/leocat-tv/tree/master/error/noserver.m3u8
+    icon: https://github.com/open-leocat/leocat-tv/tree/master/error/noicon.png
