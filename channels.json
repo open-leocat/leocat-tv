@@ -1,16 +1,20 @@
-channels:
-  pervyykanal:
-    name: &#x41F;&#x435;&#x440;&#x432;&#x44B;&#x439; &#x43A;&#x430;&#x43D;&#x430;&#x43B;
-    link: http://persik.by/stream/8682/252987/8.m3u8
-    icon: https://github.com/open-leocat/leocat-tv/tree/master/icons/pervyykanal.png
-  rossiaone:
-    name: &#x420;&#x43E;&#x441;&#x441;&#x438;&#x44F;-1
-    link: http://persik.by/stream/8682/252987/9.m3u8
-    icon: https://github.com/open-leocat/leocat-tv/tree/master/icons/rossiaone.png
-  rentv:
-    name: &#x420;&#x435;&#x43D; &#x422;&#x412;
-    link: http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-    icon: https://github.com/open-leocat/leocat-tv/tree/master/icons/rentv.png
+{
+- channels: {
+  - pervyykanal: {
+    name: "&#x41F;&#x435;&#x440;&#x432;&#x44B;&#x439; &#x43A;&#x430;&#x43D;&#x430;&#x43B;",
+    link: "http://persik.by/stream/8682/252987/8.m3u8",
+    icon: https://github.com/open-leocat/leocat-tv/tree/master/icons/pervyykanal.png",
+    }
+  - rossiaone: {
+    name: "&#x420;&#x43E;&#x441;&#x441;&#x438;&#x44F;-1",
+    link: "http://persik.by/stream/8682/252987/9.m3u8",
+    icon: "https://github.com/open-leocat/leocat-tv/tree/master/icons/rossiaone.png",
+    }
+  - rentv: {
+    name: "&#x420;&#x435;&#x43D; &#x422;&#x412;",
+    link: "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8",
+    icon: "https://github.com/open-leocat/leocat-tv/tree/master/icons/rentv.png",
+    }
   ctc:
     name: &#x421;&#x422;&#x421;
     link: https://cdn.mytouchtv.tv/hlsl/10/STS/STS_2/index.m3u8
@@ -39,3 +43,5 @@ channels:
     name: &#x4d;&acy;&tcy;&chcy;
     link: https://github.com/open-leocat/leocat-tv/tree/master/error/noserver.m3u8
     icon: https://github.com/open-leocat/leocat-tv/tree/master/error/noicon.png
+}
+}
