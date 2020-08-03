@@ -19,3 +19,5 @@ https://cdn.mytouchtv.tv/hlsl/10/Karusel/Karusel_2/index.m3u8
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTINF:-1,Время
 http://russia.livetv.az/russia/vremya/playlist.m3u8
+#EXTINF:-1,Бобер
+http://109.239.208.82:80/bober/index.m3u8
