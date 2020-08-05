@@ -51,7 +51,7 @@
 	},
 	{
 		"title": "&#x411;&#x43E;&#x431;&#x451;&#x440;",
-		"url": "http://109.239.208.82:80/bober/index.m3u8",
+		"url": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noserver.m3u8",
 		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/bober.png"
 	}
 ]
