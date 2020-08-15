@@ -6,12 +6,12 @@
 	},
 	{
 		"title": "&#x420;&#x43E;&#x441;&#x441;&#x438;&#x44F;-1",
-		"url": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noserver.m3u8",
+		"url": "http://188.35.9.26:7050/udp/238.0.7.2:69000",
 		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rossiaone.png"
 	},
 	{
 		"title": "&#x41D;&#x422;&#x412;",
-		"url": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noserver.m3u8",
+		"url": "http://188.35.9.26:4050/udp/238.0.4.3:69000",
 		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/ntv.png"
 	},
 	{
@@ -60,8 +60,8 @@
 		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/disney.png"
 	},
 	{
-		"title": "&#x41C;&#x430;&#x442;&#x447; &#x422;&#x412;",
-		"url": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noserver.m3u8",
+		"title": "&#x41C;&#x430;&#x442;&#x447;! &#x410;&#x440;&#x435;&#x43D;&#x430;",
+		"url": "http://37.235.225.176:81/udp/225.50.64.42:1234?denms.ru",
 		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/match.png"
 	}
 ]
