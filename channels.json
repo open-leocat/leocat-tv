@@ -6,12 +6,12 @@
 	},
 	{
 		"title": "&#x420;&#x43E;&#x441;&#x441;&#x438;&#x44F;-1",
-		"url": "http://persik.by/stream/8682/252987/9.m3u8",
+		"url": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noserver.m3u8",
 		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rossiaone.png"
 	},
 	{
 		"title": "&#x41D;&#x422;&#x412;",
-		"url": "http://persik.by/stream/8682/252987/10.m3u8",
+		"url": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noserver.m3u8",
 		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/ntv.png"
 	},
 	{
@@ -53,5 +53,15 @@
 		"title": "&#x411;&#x43E;&#x431;&#x451;&#x440;",
 		"url": "http://109.239.208.82/bober/index.m3u8",
 		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/bober.png"
+	},
+	{
+		"title": "Disney",
+		"url": "http://stream3.kuvalda.tv/hls/disney.m3u8",
+		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/disney.png"
+	},
+	{
+		"title": "&#x41C;&#x430;&#x442;&#x447; &#x422;&#x412;",
+		"url": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noserver.m3u8",
+		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/match.png"
 	}
 ]
