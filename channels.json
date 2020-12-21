@@ -11,6 +11,11 @@
 		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rossiaone.png"
 	},
 	{
+		"title": "&#x420;&#x422;&#x420; &#x41F;&#x43B;&#x430;&#x43D;&#x435;&#x442;&#x430;",
+		"url": "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8",
+		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rtr.png"
+	},
+	{
 		"title": "&#x420;&#x43E;&#x441;&#x441;&#x438;&#x44F; 24",
 		"url": "http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8",
 		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rossia24.png"
