@@ -11,6 +11,11 @@
 		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rossiaone.png"
 	},
 	{
+		"title": "CTC",
+		"url": "https://sc.id-tv.kz/STS_38_39.m3u8",
+		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icon/ctc.png"
+	},
+	{
 		"title": "&#x420;&#x422;&#x420; &#x41F;&#x43B;&#x430;&#x43D;&#x435;&#x442;&#x430;",
 		"url": "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8",
 		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rtr.png"
