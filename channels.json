@@ -33,5 +33,10 @@
 		"title": "National Geographic HD",
 		"url": "http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8",
 		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
+	},
+	{
+		"title": "&#x417;&#x432;&#x435;&#x437;&#x434;&#x430;",
+		"url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
+		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/zwesda.png"
 	}
 ]
