@@ -1,108 +1,108 @@
 [
-	{
-		"title": "&#x41F;&#x435;&#x440;&#x432;&#x44B;&#x439; &#x43A;&#x430;&#x43D;&#x430;&#x43B;",
-		"url": "http://iptv.ktkru.ru:8001/index.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/pervyykanal.png"
-	},
-	{
-		"title": "&#x420;&#x43E;&#x441;&#x441;&#x438;&#x44F; 1",
-		"alt": "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8",
-		"url": "http://tv-online.gtrkchita.ru:8080/hls/r1-chita_180p.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rossiaone.png"
-	},
-	{
-		"title": "CTC",
-		"url": "https://sc.id-tv.kz/STS_38_39.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icon/ctc.png"
-	},
-	{
-		"title": "&#x420;&#x422;&#x420; &#x41F;&#x43B;&#x430;&#x43D;&#x435;&#x442;&#x430;",
-		"url": "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rtr.png"
-	},
-	{
-		"title": "&#x420;&#x43E;&#x441;&#x441;&#x438;&#x44F; 24",
-		"url": "http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rossia24.png"
-	},
-	{
-		"title": "&#x41D;&#x422;&#x412;",
-		"url": "http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/ntv.png"
-	},
-	{
-		"title": "&#x420;&#x435;&#x43D; &#x422;&#x412;",
-		"url": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rentv.png"
-	},
-	{
-		"title": "&#x41A;&#x430;&#x440;&#x443;&#x441;&#x435;&#x43B;&#x44C;",
-		"url": "http://uiptv.do.am/1ufc/000000007/playlist.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/karusel.png"
-	},
-	{
-		"title": "&#x41F;&#x43E;&#x431;&#x435;&#x434;&#x430;",
-		"url": "https://sc.id-tv.kz/Pobeda_34_35.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/pobeda.png"
-	},
-	{
-		"title": "&#x417;&#x432;&#x435;&#x437;&#x434;&#x430;",
-		"url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/zwesda.png"
-	},
-	{
-		"title": "&#x41F;&#x44F;&#x442;&#x43D;&#x438;&#x446;&#x430;",
-		"url": "http://uiptv.do.am/1ufc/103815382/playlist.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
-	},
-	{
-		"title": "THT",
-		"url": "http://uiptv.do.am/1ufc/106596187/playlist.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/tnt.png"
-	},
-	{
-		"title": "&#x414;&#x43E;&#x43C;&#x430;&#x448;&#x43D;&#x438;&#x439;",
-		"url": "http://uiptv.do.am/1ufc/104487210/playlist.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
-	},
-	{
-		"title": "&#x422;&#x412;&#x426;",
-		"url": "http://uiptv.do.am/1ufc/000000009/playlist.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
-	},
-	{
-		"title": "&#x411;&#x43E;&#x431;&#x435;&#x440;",
-		"url": "http://89.106.234.4/bober_34_35.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/bober.png"
-	},
-	{
-		"title": "Nickelodeon",
-		"url": "https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
-	},
-	{
-		"title": "MTV",
-		"url": "https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
-	},
-	{
-		"title": "MTV",
-		"url": "https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
-	},
-	{
-		"title": "3sat",
-		"url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
-	},
-	{
-		"title": "ARD-alpha",
-		"url": "https://mcdn.daserste.de/daserste/de/master.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
-	},
-	{
-		"title": "Das Erste",
-		"url": "https://mcdn.daserste.de/daserste/de/master.m3u8",
-		"icon": "https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
-	},
+   {
+      "title":"&#x41F;&#x435;&#x440;&#x432;&#x44B;&#x439; &#x43A;&#x430;&#x43D;&#x430;&#x43B;",
+      "url":"http://iptv.ktkru.ru:8001/index.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/pervyykanal.png"
+   },
+   {
+      "title":"&#x420;&#x43E;&#x441;&#x441;&#x438;&#x44F; 1",
+      "alt":"http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8",
+      "url":"http://tv-online.gtrkchita.ru:8080/hls/r1-chita_180p.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rossiaone.png"
+   },
+   {
+      "title":"CTC",
+      "url":"https://sc.id-tv.kz/STS_38_39.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icon/ctc.png"
+   },
+   {
+      "title":"&#x420;&#x422;&#x420; &#x41F;&#x43B;&#x430;&#x43D;&#x435;&#x442;&#x430;",
+      "url":"http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rtr.png"
+   },
+   {
+      "title":"&#x420;&#x43E;&#x441;&#x441;&#x438;&#x44F; 24",
+      "url":"http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rossia24.png"
+   },
+   {
+      "title":"&#x41D;&#x422;&#x412;",
+      "url":"http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/ntv.png"
+   },
+   {
+      "title":"&#x420;&#x435;&#x43D; &#x422;&#x412;",
+      "url":"http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rentv.png"
+   },
+   {
+      "title":"&#x41A;&#x430;&#x440;&#x443;&#x441;&#x435;&#x43B;&#x44C;",
+      "url":"http://uiptv.do.am/1ufc/000000007/playlist.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/karusel.png"
+   },
+   {
+      "title":"&#x41F;&#x43E;&#x431;&#x435;&#x434;&#x430;",
+      "url":"https://sc.id-tv.kz/Pobeda_34_35.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/pobeda.png"
+   },
+   {
+      "title":"&#x417;&#x432;&#x435;&#x437;&#x434;&#x430;",
+      "url":"https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/zwesda.png"
+   },
+   {
+      "title":"&#x41F;&#x44F;&#x442;&#x43D;&#x438;&#x446;&#x430;",
+      "url":"http://uiptv.do.am/1ufc/103815382/playlist.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
+   },
+   {
+      "title":"THT",
+      "url":"http://uiptv.do.am/1ufc/106596187/playlist.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/tnt.png"
+   },
+   {
+      "title":"&#x414;&#x43E;&#x43C;&#x430;&#x448;&#x43D;&#x438;&#x439;",
+      "url":"http://uiptv.do.am/1ufc/104487210/playlist.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
+   },
+   {
+      "title":"&#x422;&#x412;&#x426;",
+      "url":"http://uiptv.do.am/1ufc/000000009/playlist.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
+   },
+   {
+      "title":"&#x411;&#x43E;&#x431;&#x435;&#x440;",
+      "url":"http://89.106.234.4/bober_34_35.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/bober.png"
+   },
+   {
+      "title":"Nickelodeon",
+      "url":"https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
+   },
+   {
+      "title":"MTV",
+      "url":"https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
+   },
+   {
+      "title":"MTV",
+      "url":"https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
+   },
+   {
+      "title":"3sat",
+      "url":"https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
+   },
+   {
+      "title":"ARD-alpha",
+      "url":"https://mcdn.daserste.de/daserste/de/master.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
+   },
+   {
+      "title":"Das Erste",
+      "url":"https://mcdn.daserste.de/daserste/de/master.m3u8",
+      "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
+   }
 ]
