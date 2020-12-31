@@ -99,5 +99,10 @@
       "title":"Das Erste",
       "url":"https://mcdn.daserste.de/daserste/de/master.m3u8",
       "icon":"https://raw.githubusercontent.com/open-leocat/leocat-tv/master/error/noicon.png"
+   },
+   {
+      "title":"ZDF",
+      "url":"http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8",
+      "icon":"lol"
    }
 ]
