@@ -104,5 +104,9 @@
       "title":"ZDF",
       "url":"http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8",
       "icon":"lol"
-   }
+   },
+   {
+      "title": "ZDF Neo",
+      "url": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/",
+      "icon": "lol"
 ]
