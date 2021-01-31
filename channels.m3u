@@ -1,23 +1,17 @@
 #EXTM3U
-#EXTINF:-1,Первый канал
-http://182.73.122.74:10005/bysid/414
-#EXTINF:-1,Россия-1
-http://persik.by/stream/8682/252987/9.m3u8
-#EXTINF:-1,НТВ
-http://persik.by/stream/8682/252987/10.m3u8
-#EXTINF:-1,Рен ТВ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1,Звезда
-http://176.101.224.21:8080/udp/239.195.32.17:1234
-#EXTINF:-1,СТС
-https://cdn.mytouchtv.tv/hlsl/10/STS/STS_2/index.m3u8
-#EXTINF:-1,ТНТ
-https://cdn.mytouchtv.tv/hlsl/10/TNT/TNT_3/index.m3u8
-#EXTINF:-1,Карусель
-https://cdn.mytouchtv.tv/hlsl/10/Karusel/Karusel_2/index.m3u8
-#EXTINF:-1,Победа
-https://sc.id-tv.kz/Pobeda_34_35.m3u8
-#EXTINF:-1,Время
-http://russia.livetv.az/russia/vremya/playlist.m3u8
-#EXTINF:-1,Бобер
-http://109.239.208.82/bober/index.m3u
+#EXTINF:-1,Первый канал tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/pervyykanal.png"
+http://iptv.ktkru.ru:8001/index.m3u8
+#EXTINF:-1,Россия 1 tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rossiaone.png"
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_180p.m3u8
+#EXTINF:-1,CTC tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icon/ctc.png"
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1,РТР Планета tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rtr.png"
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1,Россия 24 tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rossia24.png"
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1,HTB tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/ntv.png"
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
+#EXTINF:-1,Рен ТВ tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rentv.png"
+http://iptv.ktkru.ru:8011/index.m3u8
+#EXTINF:-1,Карусель tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/karusel.png"
+http://uiptv.do.am/1ufc/000000007/playlist.m3u8
