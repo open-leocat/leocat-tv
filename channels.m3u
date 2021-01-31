@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1,Первый канал tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/pervyykanal.png"
+#EXTINF:-1,Первый канал
 http://iptv.ktkru.ru:8001/index.m3u8
-#EXTINF:-1,Россия 1 tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rossiaone.png"
+#EXTINF:-1,Россия 1
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_180p.m3u8
-#EXTINF:-1,CTC tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icon/ctc.png"
+#EXTINF:-1,CTC
 https://sc.id-tv.kz/STS_38_39.m3u8
-#EXTINF:-1,РТР Планета tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rtr.png"
+#EXTINF:-1,РТР Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
-#EXTINF:-1,Россия 24 tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rossia24.png"
+#EXTINF:-1,Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1,HTB tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/ntv.png"
+#EXTINF:-1,HTB
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
-#EXTINF:-1,Рен ТВ tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rentv.png"
+#EXTINF:-1,Рен ТВ
 http://iptv.ktkru.ru:8011/index.m3u8
-#EXTINF:-1,Карусель tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/karusel.png"
+#EXTINF:-1,Карусель
 http://uiptv.do.am/1ufc/000000007/playlist.m3u8
-#EXTINF:-1,Победа tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/pobeda.png"
+#EXTINF:-1,Победа
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
-#EXTINF:-1,Звезда tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/zwesda.png"
+#EXTINF:-1,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1,Пятница tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/pjatniza.png"
+#EXTINF:-1,Пятница
 http://uiptv.do.am/1ufc/103815382/playlist.m3u8
-#EXTINF:-1,THT tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/tnt.png"
+#EXTINF:-1,THT
 http://uiptv.do.am/1ufc/106596187/playlist.m3u8
-#EXTINF:-1,Домашний tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/domashniy.png"
+#EXTINF:-1,Домашний
 http://uiptv.do.am/1ufc/104487210/playlist.m3u8
-#EXTINF:-1,ТВЦ tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/twc.png"
+#EXTINF:-1,ТВЦ
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
-#EXTINF:-1,Бобер tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/bober.png"
+#EXTINF:-1,Бобер
 http://89.106.234.4/bober_34_35.m3u8
