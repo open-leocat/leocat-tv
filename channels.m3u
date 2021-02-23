@@ -29,5 +29,5 @@ http://uiptv.do.am/1ufc/104487210/playlist.m3u8
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
 #EXTINF: -1 tvg-name="Бобер" tvg-chno="15" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/bober.png" group-title="Ungrouped", Бобер
 http://89.106.234.4/bober_34_35.m3u8
-#EXTINF: -1 tvg-name="Бобер" tvg-chno="15" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/match.png" group-title="Ungrouped", Матч!
+#EXTINF: -1 tvg-name="Матч" tvg-chno="15" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/match.png" group-title="Ungrouped", Матч!
 http://iptv.ktkru.ru:8003/index.m3u8
