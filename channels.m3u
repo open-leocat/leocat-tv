@@ -29,3 +29,29 @@ http://uiptv.do.am/1ufc/104487210/playlist.m3u8
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
 #EXTINF: -1 tvg-name="Бобер" tvg-chno="15" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/bober.png" group-title="Ungrouped", Бобер
 http://89.106.234.4/bober_34_35.m3u8
+#EXTINF: -1 tvg-name="Nickelodeon" tvg-chno="16" group-title="Ungrouped", Nickelodeon
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF: -1 tvg-name="WELT" tvg-chno="17" group-title="Ungrouped", WELT
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF: -1 tvg-name="Das Erste" tvg-chno="18" group-title="Ungrouped", Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF: -1 tvg-name="ARD-Alpha" tvg-chno="19" group-title="Ungrouped", ARD-Alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF: -1 tvg-name="ARD-One" tvg-chno="20" group-title="Ungrouped", ARD-One
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
+#EXTINF: -1 tvg-name="Tagesschau 24" tvg-chno="21" group-title="Ungrouped", Tagesschau 24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_3@66339/master.m3u8
+#EXTINF: -1 tvg-name="ARD-Sportschau" tvg-chno="22" group-title="Ungrouped", ARD-Sportschau
+https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
+#EXTINF: -1 tvg-name="ARTE" tvg-chno="23" group-title="Ungrouped", ARTE
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF: -1 tvg-name="Phoenix" tvg-chno="24" group-title="Ungrouped", Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF: -1 tvg-name="ZDF" tvg-chno="25" group-title="Ungrouped", ZDF
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF: -1 tvg-name="ZDFinfo" tvg-chno="26" group-title="Ungrouped", ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF: -1 tvg-name="ZDF neo" tvg-chno="27" group-title="Ungrouped", ZDF neo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF: -1 tvg-name="WDR" tvg-chno="28" group-title="Ungrouped", WDR
+https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
