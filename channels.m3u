@@ -10,25 +10,25 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTINF: -1 tvg-name="Россия 24" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rossia24.png" group-title="Ungrouped", Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF: -1 tvg-name="HTB" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/ntv.png" group-title="Ungrouped", HTB
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
+http://persik.by/stream/176/296165/10.m3u8
 #EXTINF: -1 tvg-name="Рен ТВ" tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rentv.png" group-title="Ungrouped", Рен ТВ
 http://ott-cdn.ucom.am/s85/04.m3u8
 #EXTINF: -1 tvg-name="Карусель" tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/karusel.png" group-title="Ungrouped", Карусель
-http://uiptv.do.am/1ufc/000000007/playlist.m3u8
+http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd?checkedby
 #EXTINF: -1 tvg-name="Победа" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/pobeda.png" group-title="Ungrouped", Победа
-https://sc.id-tv.kz/Pobeda_34_35.m3u8
+http://ott-cdn.ucom.am/s47/04.m3u8
 #EXTINF: -1 tvg-name="Звезда" tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/zwesda.png" group-title="Ungrouped", Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF: -1 tvg-name="Пятница" tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/pjatniza.png" group-title="Ungrouped", Пятница
-http://uiptv.do.am/1ufc/103815382/playlist.m3u8
+http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd?checkedby
 #EXTINF: -1 tvg-name="THT" tvg-chno="12" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/tnt.png" group-title="Ungrouped", THT
-http://uiptv.do.am/1ufc/106596187/playlist.m3u8
+http://91.221.201.2:7004/play/a001/index.m3u8
 #EXTINF: -1 tvg-name="Домашний" tvg-chno="13" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/domashniy.png" group-title="Ungrouped", Домашний
-http://uiptv.do.am/1ufc/104487210/playlist.m3u8
+http://mfe.cliptv.az/dash/Domashniy_SD.ism/playlist.mpd?checkedby
 #EXTINF: -1 tvg-name="ТВЦ" tvg-chno="14" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/twc.png" group-title="Ungrouped", ТВЦ
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
 #EXTINF: -1 tvg-name="Бобер" tvg-chno="15" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/bober.png" group-title="Ungrouped", Бобер
-http://89.106.234.4/bober_34_35.m3u8
+http://edge04.beetv.kz/btv/SWM/Bober/Bober_384p_1000kbps.m3u8
 #EXTINF: -1 tvg-name="Nickelodeon" tvg-chno="16" group-title="Ungrouped", Nickelodeon
 https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 #EXTINF: -1 tvg-name="WELT" tvg-chno="17" group-title="Ungrouped", WELT
