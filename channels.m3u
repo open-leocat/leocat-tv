@@ -1,8 +1,6 @@
 #EXTM3U 
 #EXTINF: -1 tvg-name="Первый канал" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/pervyykanal.png" group-title="Ungrouped", Первый канал
-http://hlstv.brn.211.ru/239.211.200.1/stream.m3u8
-#EXTINF: -1 tvg-name="Россия 1" tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rossiaone.png" group-title="Ungrouped", Россия 1
-http://tv-online.gtrkchita.ru:8080/hls/r1-chita_180p.m3u8
+http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF: -1 tvg-name="CTC" tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/ctc.png" group-title="Ungrouped", CTC
 https://sc.id-tv.kz/STS_38_39.m3u8
 #EXTINF: -1 tvg-name="РТР Планета" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/rtr.png" group-title="Ungrouped", РТР Планета
