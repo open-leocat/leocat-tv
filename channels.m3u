@@ -18,7 +18,7 @@ http://ott-cdn.ucom.am/s47/04.m3u8
 #EXTINF: -1 tvg-name="Звезда" tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/zwesda.png" group-title="Ungrouped", Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF: -1 tvg-name="Пятница" tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/pjatniza.png" group-title="Ungrouped", Пятница
-http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd?checkedby
+https://sc.id-tv.kz/friday_34_35.m3u8
 #EXTINF: -1 tvg-name="THT" tvg-chno="12" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/tnt.png" group-title="Ungrouped", THT
 http://91.221.201.2:7004/play/a001/index.m3u8
 #EXTINF: -1 tvg-name="Домашний" tvg-chno="13" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/domashniy.png" group-title="Ungrouped", Домашний
