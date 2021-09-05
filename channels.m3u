@@ -55,5 +55,5 @@ https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
 #EXTINF: -1 tvg-name="Match" tvg-chno="29" tvg-logo="https://raw.githubusercontent.com/open-leocat/leocat-tv/master/icons/match.png" group-title="Ungrouped", MatchTV
 http://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:-1,54 НСТ tvg-chno="30"
+#EXTINF: -1 tvg-name="НСТ" tvg-chno="30"
 http://91.221.201.2:7100/play/a00j/index.m3u8
