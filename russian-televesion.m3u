@@ -1,0 +1,23 @@
+#EXTM3U 
+#EXTINF: -1 tvg-chno="1" group-title="Unnamed", Первый канал
+http://ott-cdn.ucom.am/s14/04.m3u8
+#EXTINF: -1 tvg-chno="2" group-title="Unnamed", Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF: -1 tvg-chno="3" group-title="Unnamed", Рен ТВ
+http://ott-cdn.ucom.am/s85/04.m3u8
+#EXTINF: -1 tvg-chno="4" group-title="Unnamed", НТВ мир
+http://ott-cdn.ucom.am/s17/04.m3u8
+#EXTINF: -1 tvg-chno="6" group-title="Unnamed", СТС
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF: -1 tvg-chno="7" group-title="Unnamed", ТНТ
+http://ott-cdn.ucom.am/s19/04.m3u8
+#EXTINF: -1 tvg-chno="8" group-title="Unnamed", ТВЦ
+http://ott-cdn.ucom.am/s54/04.m3u8
+#EXTINF: -1 tvg-chno="9" group-title="Unnamed", ПЯТНИЦА А
+http://ott-cdn.ucom.am/s50/04.m3u8
+#EXTINF: -1 tvg-chno="10" group-title="Unnamed", ДОМАШНИЙ
+http://ott-cdn.ucom.am/s88/04.m3u8
+#EXTINF: -1 tvg-chno="11" group-title="Unnamed", Победа
+http://ott-cdn.ucom.am/s47/04.m3u8
+#EXTINF: -1 tvg-chno="12" group-title="Unnamed", HCT
+http://ott-cdn.ucom.am/s87/04.m3u8
