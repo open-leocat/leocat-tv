@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF: -1 tvg-chno="1" group-title="Unnamed", Первый канал
-http://ott-cdn.ucom.am/s14/04.m3u8
+http://91.235.190.191:4777/udp/239.255.0.1:1234?zone/
 #EXTINF: -1 tvg-chno="2" group-title="Unnamed", Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF: -1 tvg-chno="3" group-title="Unnamed", Рен ТВ
